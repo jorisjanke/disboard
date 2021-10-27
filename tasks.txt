@@ -1,0 +1,6 @@
+token1:channelid1
+token2:channelid2
+token3:channelid3
+...
+
+Replace all of this!
