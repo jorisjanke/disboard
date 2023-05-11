@@ -52,15 +52,6 @@ print(f"""
 ░█░█░█ ░█▄▄▀ ░█─── ░█▄▄█ ▀▀ ░█░█░█ ░█─░█ ░█─── ─░█── ░█─ ░█▄▄█ ░█─── ░█▀▀▀ ▀▀ ─░█── ░█▄▄█ ─▀▀▀▄▄ ░█▀▄─ ▀▀ ░█▀▀▄ ░█─░█ ░█░█░█ ░█▄▄█ ░█▀▀▀ ░█▄▄▀ 
 ░█──░█ ░█─░█ ░█▄▄█ ░█─── ── ░█──░█ ─▀▄▄▀ ░█▄▄█ ─░█── ▄█▄ ░█─── ░█▄▄█ ░█▄▄▄ ── ─░█── ░█─░█ ░█▄▄▄█ ░█─░█ ── ░█▄▄█ ─▀▄▄▀ ░█──░█ ░█─── ░█▄▄▄ ░█─░█
 
-█▀█ █▀█ █▀▀ █▀▄▀█ █ █░█ █▀▄▀█   ▀█▀ █▀█ █▀█ █░░   █▄▄ █▄█   █▀▄▀█ █▀█ █░░ █▀█ ░ █▀▀ █░█
-█▀▀ █▀▄ ██▄ █░▀░█ █ █▄█ █░▀░█   ░█░ █▄█ █▄█ █▄▄   █▄█ ░█░   █░▀░█ █▀▄ █▄▄ █▀▀ ▄ ██▄ █▄█
-
-{Fore.RED}Tool created by Mr Let's Play!
-{Fore.RED}Instagram: {Fore.CYAN}https://www.mrlp.eu/insta
-{Fore.RED}Homepage: {Fore.CYAN}https://www.mrlp.eu/home
-{Fore.RED}Contact: {Fore.CYAN}https://www.mrlp.eu/contact
-{Fore.RED}Discord: {Fore.CYAN}https://www.mrlp.eu/discord
-{Fore.RED}PayPal: {Fore.CYAN}https://www.mrlp.eu/paypal
 
 {Fore.LIGHTGREEN_EX}
 Please make sure that you configure the Tool!
